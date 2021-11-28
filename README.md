@@ -18,4 +18,4 @@
 - 🤔 I’m looking for help with algorithms
 - 💬 Ask me about anything
 - 📫 How to reach me: GitHub
-- 😄 Pronouns:CV-Oriented Engineer
+- 😄 Pronouns:CV-Oriented Engineer:)
