@@ -4,7 +4,7 @@
 **FishCatCake/FishCatCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on loads of assignments...
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning algorithms
 - 👯 I’m looking to collaborate on anyone except for freeriders
 - 🤔 I’m looking for help with algorithms
 - 💬 Ask me about anything
