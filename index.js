@@ -13,10 +13,13 @@ function generateProgressBar() {
     return `{ ${progressBar} }`
 }
 
-// const readme = `\
-// ⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
-// ---
-// ⏰ Updated on ${new Date().toUTCString()}
-// ---
+const readme = `\
+### Hi there 👋
+⏳ Year progress ${progressBarOfThisYear} ${(progressOfThisYear * 100).toFixed(2)} %
+---
+⏰ Updated on ${new Date().toUTCString()}
+---
 ### My GitHub Contributions
+
+![](https://raw.githubusercontent.com/FishCatCake/FishCatCake/main/assets/github-contribution-grid-snake.svg)
 
