@@ -18,3 +18,6 @@ const readme = `\
 ---
 ⏰ Updated on ${new Date().toUTCString()}
 ---
+### My GitHub Contribution
+
+![](https://raw.githubusercontent.com/FishCatCake/FishCatCake/main/assets/github-contribution-grid-snake.svg)
