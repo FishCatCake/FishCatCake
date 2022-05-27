@@ -22,7 +22,8 @@
 
 ![](https://img.shields.io/badge/JetBrains-aficionado-ff69b4)
 
-
+### My GitHub Contributions
+![](https://raw.githubusercontent.com/FishCatCake/FishCatCake/main/assets/github-contribution-grid-snake.svg)
 
 <!-- 
 - 🔭 I’m currently working on loads of assignments...
