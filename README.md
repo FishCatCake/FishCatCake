@@ -15,13 +15,14 @@ Code with
 ![](https://img.shields.io/badge/Tensorflow-orange)
 ![](https://img.shields.io/badge/Pytorch-red)
 ![](https://img.shields.io/badge/C++-blueviolet)
-![](https://img.shields.io/badge/Vue.js-green)
-![](https://img.shields.io/badge/Node.js-9cf)
+![](https://img.shields.io/badge/Vue.js-9cf)
 ![](https://img.shields.io/badge/SpringBoot-green)
 
-![](https://img.shields.io/badge/JetBrains-fans-brightgreen)
+💬 Everything is figureoutable.  
 
-💬 Everything is figureoutable.
+![](https://img.shields.io/badge/JetBrains-aficionado-brightgreen)
+
+
 
 
 
