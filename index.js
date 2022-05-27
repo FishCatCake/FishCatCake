@@ -20,4 +20,3 @@ function generateProgressBar() {
 // ---
 ### My GitHub Contributions
 
-![](https://raw.githubusercontent.com/FishCatCake/FishCatCake/main/assets/github-contribution-grid-snake.svg)
