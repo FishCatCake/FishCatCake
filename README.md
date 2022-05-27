@@ -10,6 +10,19 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: GitHub
 
+Code with  
+
+![](https://img.shields.io/badge/Python-blue)
+![](https://img.shields.io/badge/Tensorflow-orange)
+![](https://img.shields.io/badge/Pytorch-red)
+![](https://img.shields.io/badge/C++-blueviolet). 
+
+![](https://img.shields.io/badge/JetBrains-fans-brightgreen)
+![](https://img.shields.io/badge/Photography-shutterbug-brightgreen)
+
+![](?style=Everythin is figureoutble&logo=appveyor)
+
+
 <!-- 
 - 🔭 I’m currently working on loads of assignments...
 - 🌱 I’m currently learning DotNet
