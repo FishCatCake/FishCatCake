@@ -3,9 +3,9 @@
 
 <!-- **FishCatCake/FishCatCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- ♿ I’m currently working on Image Denosing as my final year project.
-- 📕 I’m currently learning CV algorithms.
-- 🔍 I’m looking for an algorithm intern.
+- ♿ I’m currently working on my final year project.
+- 📕 I’m currently learning algorithms.
+- 🔍 I’m looking for myself.
 - 💢 I’m looking forwoard to collaborating with anyone except for free riders.
 - 📫 How to reach me: GitHub.
 
