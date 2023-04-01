@@ -1,13 +1,12 @@
 ### Hi there 👋
-## ⚡ Come to visit my page again? 
+<!-- ## ⚡ Come to visit my page again?  -->
 
 <!-- **FishCatCake/FishCatCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- ♿ I’m currently working on my final year project.
-- 📕 I’m currently learning algorithms.
-- 🔍 I’m looking for myself.
-- 💢 I’m looking forwoard to collaborating with anyone except for free riders.
-- 📫 How to reach me: GitHub.
+- ♿ I’m currently working on the DL with Electroencephalogram (EEG) signals.
+- 📕 I’m currently learning XAI and BCI related knolwdege.
+- 🔍 I’m looking for internship in BCI field.
+- 📫 How to reach me: liuyicen63@gmail.com.
 
 ⌨ Code with  
 
