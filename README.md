@@ -3,17 +3,22 @@
 
 <!-- **FishCatCake/FishCatCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- ♿ I’m currently working on the DL with Electroencephalogram (EEG) signals.
-- 📕 I’m currently learning XAI and BCI related knolwdege.
-- 🔍 I’m looking for internship in BCI field.
-- 📫 How to reach me: liuyicen63@gmail.com.
+- ♿ I'm actively involved in projects centered on Electroencephalogram (EEG) signals.
+- 📕 I'm diving deeper into XAI and expanding my understanding of BCI-related topics.
+- 🔍 I'm seeking an internship role within the AI-for-Healthcare sector.
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/yicen-liu-nov2nd)
+
 
 ⌨ Code with  
 
 🐍 ![](https://img.shields.io/badge/Python-blue)
+![](https://img.shields.io/badge/Pytorch-red)
+![](https://img.shields.io/badge/MNE-black)
 ![](https://img.shields.io/badge/Tensorflow-orange)
-![](https://img.shields.io/badge/Pytorch-red)  
+
 🪡 ![](https://img.shields.io/badge/C++-blueviolet)
+![Static Badge](https://img.shields.io/badge/Kotlin-purple)
+![Static Badge](https://img.shields.io/badge/JAVA-brown)
 ![](https://img.shields.io/badge/Vue.js-9cf)
 ![](https://img.shields.io/badge/SpringBoot-green)
 
