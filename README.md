@@ -1,6 +1,7 @@
-### Hi there 👋
-<!-- ## ⚡ Come to visit my page again?  -->
+<img src="https://media2.giphy.com/media/3oz8xTfD5SrkAwNNUQ/giphy.gif" width="920" height="290">
 
+
+## Hi there 👋 
 <!-- **FishCatCake/FishCatCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 - ♿ I'm actively involved in projects centered on Electroencephalogram (EEG) signals.
