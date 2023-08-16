@@ -6,7 +6,7 @@
 - ♿ I'm actively involved in projects centered on Electroencephalogram (EEG) signals.
 - 📕 I'm diving deeper into XAI and expanding my understanding of BCI-related topics.
 - 🔍 I'm seeking an internship role within the AI-for-Healthcare sector.
-- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/yicen-liu-nov2nd)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/yicen-liu-nov2nd/)
 
 
 ⌨ Code with  
