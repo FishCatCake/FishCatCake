@@ -13,13 +13,13 @@
 ⌨ Code with  
 
 🐍 ![](https://img.shields.io/badge/Python-blue)
-![](https://img.shields.io/badge/Pytorch-red)
+![](https://img.shields.io/badge/Pytorch-C70039)
 ![](https://img.shields.io/badge/MNE-black)
 ![](https://img.shields.io/badge/Tensorflow-orange)
 
-🪡 ![](https://img.shields.io/badge/C++-blueviolet)
-![Static Badge](https://img.shields.io/badge/Kotlin-purple)
-![Static Badge](https://img.shields.io/badge/JAVA-brown)
+🪡 ![](https://img.shields.io/badge/C++-5DADE2)
+![Static Badge](https://img.shields.io/badge/Kotlin-8E44AD)
+![Static Badge](https://img.shields.io/badge/JAVA-7B241C)
 ![](https://img.shields.io/badge/Vue.js-9cf)
 ![](https://img.shields.io/badge/SpringBoot-green)
 
