@@ -1,5 +1,4 @@
-<img src="https://media2.giphy.com/media/3oz8xTfD5SrkAwNNUQ/giphy.gif" width="920" height="290">
-
+<img src="github profile.gif" width="920" height="290">
 
 ## Hi there 👋 
 <!-- **FishCatCake/FishCatCake** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
